@@ -10,3 +10,7 @@ pip install Flask-SQLAlchemy
 pip install Flask-Migrate
 
 pip install Flask-Login
+
+pip install blueprint
+
+pip install Pillow
